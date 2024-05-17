@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Languages and Tools:
 
+<img align="left" src="https://orhun.dev/img/crow.png">
+
 <table>
     <tbody>
         <tr>
