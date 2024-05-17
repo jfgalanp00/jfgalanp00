@@ -79,7 +79,12 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-
+<!-- esto es el contador de visitas de  mi git
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jfgalanp00/count.svg" />
+</p>
+-->
 
 <!--Footer--> 
 <p align="center">
