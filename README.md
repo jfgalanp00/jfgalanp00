@@ -313,15 +313,15 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 -->
-<!-- esto es el contador de visitas de  mi git-->
+<!-- esto es el contador de visitas de  mi git
 <p align="center"> 
-  Visitor count<br>
+  Contador de Visitas<br>
   <img src="https://profile-counter.glitch.me/jfgalanp00/count.svg" />
 </p>
 
     <img src="https://komarev.com/ghpvc/?username=jfgalanp00&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
     <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-    
+    -->
 
 
 <p align="center">
