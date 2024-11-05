@@ -243,7 +243,11 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/juan-francisco-gal%C3%A1n-077a06153/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"alt=linkedin style="margin-bottom: 10px;"/>
-    </a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
+
+<a href="https://juanfranciscogp.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white style="margin-bottom: 10px;"/>
+</a>&nbsp;&nbsp;
 
 </p>
 <br>
